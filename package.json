@@ -1,0 +1,16 @@
+{
+  "name": "mwtp",
+  "version": "1.0.0",
+  "description": "MemWeb Test Panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx mwtf"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jixer/mwtf": "^1.0.0",
+    "lit-element": "^2.4.0"
+  }
+}
